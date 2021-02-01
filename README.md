@@ -5,12 +5,12 @@
 <p align="center">
   <img alt="dev.finances" src="https://github.com/rocketseat-education/maratona-discover-01/raw/main/.github/devfinances.png" width="100%">
 </p>
-[Use a Aplicação!](https://github.com/Maykbrito)
 
 # DevFinance$ | Sua aplicação de controle financeiro.
 
 Este é um projeto desenvolvido durante a **[Maratona Discovery](https://maratonadiscover.rocketseat.com.br/inscricao)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante o inicio do ano de 2021.
  A proposta do projeto é uma aplicação que possa realizar um bom fluxo de gastos onde é possível cadastrar e excluir transações, além de acompanhar o saldo de entrada e saída.
+ * **[Acesse o site!](https://devfinances-ten.vercel.app/)**
 
 
 ## 🚀 Tecnologias Utilizadas
