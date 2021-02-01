@@ -21,7 +21,7 @@ Este é um projeto desenvolvido durante a **[Maratona Discovery](https://maraton
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ## ⚙️Funcionalidades Adicionadas
-- [x] **Dark Theme**
+- [x] **Dark Theme Mode**
 
 ## 🔖 Layout
 
