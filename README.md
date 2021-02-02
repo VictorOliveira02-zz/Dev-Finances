@@ -10,7 +10,7 @@
 
 Este é um projeto desenvolvido durante a **[Maratona Discovery](https://maratonadiscover.rocketseat.com.br/inscricao)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante o inicio do ano de 2021.
  A proposta do projeto é uma aplicação que possa realizar um bom fluxo de gastos onde é possível cadastrar e excluir transações, além de acompanhar o saldo de entrada e saída.
- * **[Acesse o site!](https://devfinances-ten.vercel.app/)**
+ * **[Acesse o site!](https://dev-finances-theta.vercel.app/#)**
 
 
 ## 🚀 Tecnologias Utilizadas
