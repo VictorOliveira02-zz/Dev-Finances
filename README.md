@@ -33,5 +33,5 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## 🎁 Expressões de gratidão
 
 * Agradeço a Rocketseat, pelo oferecimento gratuito dos conteúdos envolvidos na Maratona Discovery.
-* Agradeço ao professor [Mayke Brito.](https://github.com/Maykbrito)
+* Agradeço ao professor [Mayk Brito.](https://github.com/Maykbrito)
 ---
